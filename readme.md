@@ -198,7 +198,7 @@ git clone
 
 - 사용자의 베이스, 재료, 색상의 취향에 따른 칵테일 추천 (사용자 취향 분석 페이지)
   - 콘텐츠 기반 필터링
-  - FastAPI, Jaccard Similarity, Python 을 활용하여 구 
+  - FastAPI, Jaccard Similarity, Python 을 활용하여 구현
 
 <br>
 
