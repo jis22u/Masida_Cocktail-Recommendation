@@ -1,6 +1,6 @@
 ![Footer__1_](./images/masida_logo.png)
 
-SSAFY 8기 2학기 특화 프로젝트
+SSAFY 8기 2학기 특화 프로젝트   
 2023.02.20 ~ 2023.04.07
 
 <br>
